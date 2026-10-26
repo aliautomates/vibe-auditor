@@ -1,0 +1,1 @@
+Rendering debug - 7 methods
