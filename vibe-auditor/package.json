@@ -1,0 +1,15 @@
+{
+  "name": "claude-skill-vibe-auditor",
+  "version": "2.0.0",
+  "description": "Elite 10+ year audit for vibe-coded websites - MADE BY ALI HASSAN | FOUNDER AURALIX INC.",
+  "author": "ALI HASSAN | FOUNDER AURALIX INC. SHORKOT | PIAIC FAISALABAD",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "claude-skill", "vibe-coding", "audit", "security", "auralix"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/vibe-auditor.git"
+  },
+  "bin": {
+    "vibe-auditor": "./scripts/quick-audit.js"
+  }
+}
