@@ -1,1 +1,0 @@
-# Deep checklist v2 with 60 checks - see SKILL.md
